@@ -1,0 +1,8 @@
+{
+  "name": "myCountryTest2",
+  "app_id": "611e3abd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
